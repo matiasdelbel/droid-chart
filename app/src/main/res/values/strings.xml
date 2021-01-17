@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Droid Chart Test App</string>
+
+    <string name="line_chart_example">Line Chart Example</string>
 </resources>

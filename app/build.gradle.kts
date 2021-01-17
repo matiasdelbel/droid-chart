@@ -14,4 +14,6 @@ android {
 dependencies {
     implementation(Presentation.appCompat)
     implementation(Presentation.material)
+
+    implementation(project(path = ":chart:line"))
 }

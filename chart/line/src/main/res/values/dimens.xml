@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="line_chart_circle_marker_radius">6dp</dimen>
+    <dimen name="line_chart_diamond_marker_half_diagonal">8dp</dimen>
+
+    <dimen name="line_chart_line_segment_stroke">3dp</dimen>
+
+    <dimen name="line_chart_axis_stroke">1dp</dimen>
+    <dimen name="line_chart_axis_helper_line_stroke">1dp</dimen>
+    <dimen name="line_chart_axis_text_size">12sp</dimen>
+</resources>

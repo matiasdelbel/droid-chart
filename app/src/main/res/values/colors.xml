@@ -3,4 +3,8 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorSecondary">#D81B60</color>
+
+    <color name="lineChartAxes">#757575</color>
+    <color name="lineChartColor">#FF1e88e5</color>
+    <color name="lineChartColorTwo">#b0003a</color>
 </resources>
